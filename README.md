@@ -13,7 +13,7 @@ This is the GitHub repository of Jonas Oliveira.
 - Instagram: https://www.instagram.com/jonas012_/
 - LinkedIn: https://www.linkedin.com/in/jonas-oliveira-287545257/
 - Twitter: https://twitter.com/Hshe12_
-- Discord : Jonas.Oliveira.12#2655
+- Discord: Jonas.Oliveira.12#2655
 
 ## Courses
 
