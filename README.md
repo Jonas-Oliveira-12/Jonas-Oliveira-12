@@ -20,5 +20,5 @@ This is the GitHub repository of Jonas Oliveira.
 - Programming for the Internet with JavaScript (DIO)
 - Data Analysis with Python (DIO)
 - Introduction to Website Creation with HTML5 and CSS3 (SECTI - Secretary of State for Science, Technology and Innovation)
-- Introduction to Programming with Python (DIO)
-- Essential Programming Logic (SECTI - Secretary of State for Science, Technology and Innovation of Alagoas)
+- Introduction to Programming with Python (SECTI - Secretary of State for Science, Technology and Innovation of Alagoas)
+- Essential Programming Logic (DIO) 
