@@ -22,3 +22,5 @@ This is the GitHub repository of Jonas Oliveira.
 - Introduction to Website Creation with HTML5 and CSS3 (SECTI - Secretary of State for Science, Technology and Innovation)
 - Introduction to Programming with Python (SECTI - Secretary of State for Science, Technology and Innovation of Alagoas)
 - Essential Programming Logic (DIO) 
+- Introduction to Git and GitHub (DIO)
+- Fundamentals of Systems Architecture (DIO)
